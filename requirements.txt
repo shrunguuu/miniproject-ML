@@ -1,0 +1,7 @@
+numpy>=1.24
+torch>=2.0
+librosa>=0.10
+soundfile
+scikit-learn>=1.2
+matplotlib>=3.7
+ipykernel
